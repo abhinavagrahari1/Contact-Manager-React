@@ -1,0 +1,24 @@
+{
+  "contacts": [
+    {
+      "id": "73c63161-5775-461c-8887-4572635fdd36",
+      "name": "Abhinav Agrahari",
+      "email": "abhinav.agrahari@eight.network"
+    },
+    {
+      "id": "36676647-951c-41d6-8568-2b5a492f3e16",
+      "name": "Abhinav Agrahari",
+      "email": "abhinav.agrahari@eight.network"
+    },
+    {
+      "id": "cfa2ff1e-cc6a-4ec4-9429-7ee15a2a764c",
+      "name": "Abhinav Agrahari",
+      "email": "abhinav.agrahari@eight.network"
+    },
+    {
+      "id": "84785dcc-62b3-4fed-8f8c-c7c1afb5a659",
+      "name": "max",
+      "email": "max@gmail.com"
+    }
+  ]
+}
